@@ -1,0 +1,1198 @@
+2025-06-11 15:13:36,597 - INFO - Opening PDF: test\statement1.pdf
+2025-06-11 15:13:36,604 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:13:36,608 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:13:36,612 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:13:36,614 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:13:36,615 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:13:36,617 - INFO - Extracting tables from page 1/5
+2025-06-11 15:13:37,743 - INFO - Processed table 1 from page 1
+2025-06-11 15:13:37,750 - INFO - Processed table 2 from page 1
+2025-06-11 15:13:37,751 - INFO - Extracting tables from page 2/5
+2025-06-11 15:13:39,146 - INFO - Processed table 1 from page 2
+2025-06-11 15:13:39,154 - INFO - Extracting tables from page 3/5
+2025-06-11 15:13:40,584 - INFO - Processed table 1 from page 3
+2025-06-11 15:13:40,584 - INFO - Extracting tables from page 4/5
+2025-06-11 15:13:42,049 - INFO - Processed table 1 from page 4
+2025-06-11 15:13:42,050 - INFO - Extracting tables from page 5/5
+2025-06-11 15:13:42,400 - INFO - Processed table 1 from page 5
+2025-06-11 15:13:42,401 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:13:42,403 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:13:42,406 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:13:42,408 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:13:42,410 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:13:42,421 - INFO - Tables data processed successfully
+2025-06-11 15:13:42,423 - INFO - PDF processing complete.
+2025-06-11 15:13:53,691 - INFO - Retrying request to /chat/completions in 0.464224 seconds
+2025-06-11 15:14:03,144 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 15:25:23,416 - INFO - Opening PDF: test\statement1.pdf
+2025-06-11 15:25:23,432 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:25:23,437 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:25:23,447 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:25:23,454 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:25:23,462 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:25:23,465 - INFO - Extracting tables from page 1/5
+2025-06-11 15:25:24,463 - INFO - Processed table 1 from page 1
+2025-06-11 15:25:24,466 - INFO - Processed table 2 from page 1
+2025-06-11 15:25:24,473 - INFO - Extracting tables from page 2/5
+2025-06-11 15:25:26,570 - INFO - Processed table 1 from page 2
+2025-06-11 15:25:26,573 - INFO - Extracting tables from page 3/5
+2025-06-11 15:25:27,627 - INFO - Processed table 1 from page 3
+2025-06-11 15:25:27,628 - INFO - Extracting tables from page 4/5
+2025-06-11 15:25:28,547 - INFO - Processed table 1 from page 4
+2025-06-11 15:25:28,549 - INFO - Extracting tables from page 5/5
+2025-06-11 15:25:28,972 - INFO - Processed table 1 from page 5
+2025-06-11 15:25:28,976 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:25:28,980 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:25:28,985 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:25:28,988 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:25:28,993 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:25:29,006 - INFO - Tables data processed successfully
+2025-06-11 15:25:29,012 - INFO - PDF processing complete.
+2025-06-11 15:25:29,065 - INFO - PDF processing completed successfully
+2025-06-11 15:26:33,552 - INFO - Opening PDF: test\statement1.pdf
+2025-06-11 15:26:33,567 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:26:33,571 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:26:33,577 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:26:33,580 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:26:33,582 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:26:33,583 - INFO - Extracting tables from page 1/5
+2025-06-11 15:26:34,310 - INFO - Processed table 1 from page 1
+2025-06-11 15:26:34,311 - INFO - Processed table 2 from page 1
+2025-06-11 15:26:34,313 - INFO - Extracting tables from page 2/5
+2025-06-11 15:26:36,015 - INFO - Processed table 1 from page 2
+2025-06-11 15:26:36,016 - INFO - Extracting tables from page 3/5
+2025-06-11 15:26:36,829 - INFO - Processed table 1 from page 3
+2025-06-11 15:26:36,830 - INFO - Extracting tables from page 4/5
+2025-06-11 15:26:37,799 - INFO - Processed table 1 from page 4
+2025-06-11 15:26:37,800 - INFO - Extracting tables from page 5/5
+2025-06-11 15:26:38,114 - INFO - Processed table 1 from page 5
+2025-06-11 15:26:38,115 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:26:38,117 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:26:38,127 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:26:38,132 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:26:38,143 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:26:38,158 - INFO - Tables data processed successfully
+2025-06-11 15:26:38,163 - INFO - PDF processing complete.
+2025-06-11 15:26:38,246 - INFO - Saved all tables to table_txt/combined_tables.txt
+2025-06-11 15:26:38,248 - INFO - PDF processing completed successfully
+2025-06-11 15:27:32,189 - INFO - Opening PDF: test\statement1.pdf
+2025-06-11 15:27:32,206 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:27:32,218 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:27:32,308 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:27:32,329 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:27:32,333 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:27:32,341 - INFO - Extracting tables from page 1/5
+2025-06-11 15:27:33,961 - INFO - Processed table 1 from page 1
+2025-06-11 15:27:33,963 - INFO - Processed table 2 from page 1
+2025-06-11 15:27:33,963 - INFO - Extracting tables from page 2/5
+2025-06-11 15:27:35,666 - INFO - Processed table 1 from page 2
+2025-06-11 15:27:35,667 - INFO - Extracting tables from page 3/5
+2025-06-11 15:27:36,810 - INFO - Processed table 1 from page 3
+2025-06-11 15:27:36,811 - INFO - Extracting tables from page 4/5
+2025-06-11 15:27:37,665 - INFO - Processed table 1 from page 4
+2025-06-11 15:27:37,666 - INFO - Extracting tables from page 5/5
+2025-06-11 15:27:37,863 - INFO - Processed table 1 from page 5
+2025-06-11 15:27:37,864 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:27:37,865 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:27:37,866 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:27:37,867 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:27:37,868 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:27:37,877 - INFO - Tables data processed successfully
+2025-06-11 15:27:37,878 - INFO - PDF processing complete.
+2025-06-11 15:27:37,935 - INFO - Saved all tables to table_txt/combined_tables.txt
+2025-06-11 15:27:37,951 - INFO - PDF processing completed successfully
+2025-06-11 15:27:59,105 - INFO - Opening PDF: test\statement1.pdf
+2025-06-11 15:27:59,119 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:27:59,130 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:27:59,136 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:27:59,148 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:27:59,152 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:27:59,161 - INFO - Extracting tables from page 1/5
+2025-06-11 15:28:00,843 - INFO - Processed table 1 from page 1
+2025-06-11 15:28:00,848 - INFO - Processed table 2 from page 1
+2025-06-11 15:28:00,850 - INFO - Extracting tables from page 2/5
+2025-06-11 15:28:01,649 - INFO - Processed table 1 from page 2
+2025-06-11 15:28:01,650 - INFO - Extracting tables from page 3/5
+2025-06-11 15:28:02,365 - INFO - Processed table 1 from page 3
+2025-06-11 15:28:02,366 - INFO - Extracting tables from page 4/5
+2025-06-11 15:28:03,310 - INFO - Processed table 1 from page 4
+2025-06-11 15:28:03,314 - INFO - Extracting tables from page 5/5
+2025-06-11 15:28:03,527 - INFO - Processed table 1 from page 5
+2025-06-11 15:28:03,529 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:28:03,532 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:28:03,535 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:28:03,547 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:28:03,549 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:28:03,557 - INFO - Tables data processed successfully
+2025-06-11 15:28:03,560 - INFO - PDF processing complete.
+2025-06-11 15:28:03,564 - ERROR - Failed to process PDF: 'text'
+2025-06-11 15:28:22,084 - INFO - Opening PDF: test\statement1.pdf
+2025-06-11 15:28:22,092 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:28:22,095 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:28:22,098 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:28:22,101 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:28:22,102 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:28:22,115 - INFO - Extracting tables from page 1/5
+2025-06-11 15:28:24,001 - INFO - Processed table 1 from page 1
+2025-06-11 15:28:24,004 - INFO - Processed table 2 from page 1
+2025-06-11 15:28:24,014 - INFO - Extracting tables from page 2/5
+2025-06-11 15:28:25,260 - INFO - Processed table 1 from page 2
+2025-06-11 15:28:25,261 - INFO - Extracting tables from page 3/5
+2025-06-11 15:28:26,396 - INFO - Processed table 1 from page 3
+2025-06-11 15:28:26,398 - INFO - Extracting tables from page 4/5
+2025-06-11 15:28:27,453 - INFO - Processed table 1 from page 4
+2025-06-11 15:28:27,457 - INFO - Extracting tables from page 5/5
+2025-06-11 15:28:27,762 - INFO - Processed table 1 from page 5
+2025-06-11 15:28:27,764 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:28:27,766 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:28:27,768 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:28:27,772 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:28:27,776 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:28:27,781 - INFO - Tables data processed successfully
+2025-06-11 15:28:27,783 - INFO - PDF processing complete.
+2025-06-11 15:28:27,884 - INFO - Saved all tables to table_txt/combined_tables.txt
+2025-06-11 15:28:27,886 - INFO - PDF processing completed successfully
+2025-06-11 15:31:10,687 - INFO - Opening PDF: test\statement1.pdf
+2025-06-11 15:31:10,702 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:31:10,709 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:31:10,716 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:31:10,719 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:31:10,729 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:31:10,736 - INFO - Extracting tables from page 1/5
+2025-06-11 15:31:11,670 - INFO - Processed table 1 from page 1
+2025-06-11 15:31:11,671 - INFO - Processed table 2 from page 1
+2025-06-11 15:31:11,672 - INFO - Extracting tables from page 2/5
+2025-06-11 15:31:13,282 - INFO - Processed table 1 from page 2
+2025-06-11 15:31:13,282 - INFO - Extracting tables from page 3/5
+2025-06-11 15:31:14,180 - INFO - Processed table 1 from page 3
+2025-06-11 15:31:14,181 - INFO - Extracting tables from page 4/5
+2025-06-11 15:31:17,880 - INFO - Processed table 1 from page 4
+2025-06-11 15:31:17,883 - INFO - Extracting tables from page 5/5
+2025-06-11 15:31:18,283 - INFO - Processed table 1 from page 5
+2025-06-11 15:31:18,284 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:31:18,285 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:31:18,286 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:31:18,288 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:31:18,289 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:31:18,304 - INFO - Tables data processed successfully
+2025-06-11 15:31:18,309 - INFO - PDF processing complete.
+2025-06-11 15:31:44,140 - INFO - Opening PDF: test\statement1.pdf
+2025-06-11 15:31:44,155 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:31:44,159 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:31:44,169 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:31:44,174 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:31:44,187 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:31:44,192 - INFO - Extracting tables from page 1/5
+2025-06-11 15:31:45,178 - INFO - Processed table 1 from page 1
+2025-06-11 15:31:45,181 - INFO - Processed table 2 from page 1
+2025-06-11 15:31:45,182 - INFO - Extracting tables from page 2/5
+2025-06-11 15:31:45,805 - INFO - Processed table 1 from page 2
+2025-06-11 15:31:45,808 - INFO - Extracting tables from page 3/5
+2025-06-11 15:31:46,952 - INFO - Processed table 1 from page 3
+2025-06-11 15:31:46,953 - INFO - Extracting tables from page 4/5
+2025-06-11 15:31:48,513 - INFO - Processed table 1 from page 4
+2025-06-11 15:31:48,518 - INFO - Extracting tables from page 5/5
+2025-06-11 15:31:48,784 - INFO - Processed table 1 from page 5
+2025-06-11 15:31:48,785 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:31:48,785 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:31:48,787 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:31:48,790 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:31:48,800 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:31:48,813 - INFO - Tables data processed successfully
+2025-06-11 15:31:48,823 - INFO - PDF processing complete.
+2025-06-11 15:32:00,599 - INFO - Opening PDF: test\statement1.pdf
+2025-06-11 15:32:00,612 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:32:00,621 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:32:00,624 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:32:00,635 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:32:00,639 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:32:00,645 - INFO - Extracting tables from page 1/5
+2025-06-11 15:32:01,265 - INFO - Processed table 1 from page 1
+2025-06-11 15:32:01,266 - INFO - Processed table 2 from page 1
+2025-06-11 15:32:01,267 - INFO - Extracting tables from page 2/5
+2025-06-11 15:32:02,957 - INFO - Processed table 1 from page 2
+2025-06-11 15:32:02,959 - INFO - Extracting tables from page 3/5
+2025-06-11 15:32:04,491 - INFO - Processed table 1 from page 3
+2025-06-11 15:32:04,493 - INFO - Extracting tables from page 4/5
+2025-06-11 15:32:05,797 - INFO - Processed table 1 from page 4
+2025-06-11 15:32:05,798 - INFO - Extracting tables from page 5/5
+2025-06-11 15:32:05,989 - INFO - Processed table 1 from page 5
+2025-06-11 15:32:05,990 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:32:05,993 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:32:06,004 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:32:06,007 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:32:06,013 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:32:06,036 - INFO - Tables data processed successfully
+2025-06-11 15:32:06,041 - INFO - PDF processing complete.
+2025-06-11 15:45:27,434 - INFO - Opening PDF: test\statement1.pdf
+2025-06-11 15:45:27,450 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:45:27,454 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:45:27,457 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:45:27,465 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:45:27,468 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:45:27,471 - INFO - Extracting tables from page 1/5
+2025-06-11 15:45:29,371 - INFO - Processed table 1 from page 1
+2025-06-11 15:45:29,384 - INFO - Processed table 2 from page 1
+2025-06-11 15:45:29,386 - INFO - Extracting tables from page 2/5
+2025-06-11 15:45:30,851 - INFO - Processed table 1 from page 2
+2025-06-11 15:45:30,852 - INFO - Extracting tables from page 3/5
+2025-06-11 15:45:32,876 - INFO - Processed table 1 from page 3
+2025-06-11 15:45:32,881 - INFO - Extracting tables from page 4/5
+2025-06-11 15:45:34,372 - INFO - Processed table 1 from page 4
+2025-06-11 15:45:34,380 - INFO - Extracting tables from page 5/5
+2025-06-11 15:45:35,052 - INFO - Processed table 1 from page 5
+2025-06-11 15:45:35,054 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:45:35,060 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:45:35,067 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:45:35,069 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:45:35,071 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 15:45:35,087 - INFO - Tables data processed successfully
+2025-06-11 15:45:35,101 - INFO - PDF processing complete.
+2025-06-11 16:02:25,891 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:05:35,419 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:07:28,262 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:08:03,497 - INFO - Opening PDF: test\statement1.pdf
+2025-06-11 16:08:03,512 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:08:03,515 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:08:03,525 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:08:03,531 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:08:03,540 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:08:03,542 - INFO - Extracting tables from page 1/5
+2025-06-11 16:08:05,108 - INFO - Processed table 1 from page 1
+2025-06-11 16:08:05,110 - INFO - Processed table 2 from page 1
+2025-06-11 16:08:05,111 - INFO - Extracting tables from page 2/5
+2025-06-11 16:08:06,545 - INFO - Processed table 1 from page 2
+2025-06-11 16:08:06,556 - INFO - Extracting tables from page 3/5
+2025-06-11 16:08:08,092 - INFO - Processed table 1 from page 3
+2025-06-11 16:08:08,093 - INFO - Extracting tables from page 4/5
+2025-06-11 16:08:09,090 - INFO - Processed table 1 from page 4
+2025-06-11 16:08:09,091 - INFO - Extracting tables from page 5/5
+2025-06-11 16:08:09,313 - INFO - Processed table 1 from page 5
+2025-06-11 16:08:09,314 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:08:09,319 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:08:09,325 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:08:09,327 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:08:09,328 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:08:09,339 - INFO - Tables data processed successfully
+2025-06-11 16:08:09,345 - INFO - PDF processing complete.
+2025-06-11 16:08:19,128 - INFO - Opening PDF: test\statement1.pdf
+2025-06-11 16:08:19,140 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:08:19,143 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:08:19,147 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:08:19,159 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:08:19,162 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:08:19,172 - INFO - Extracting tables from page 1/5
+2025-06-11 16:08:20,106 - INFO - Processed table 1 from page 1
+2025-06-11 16:08:20,113 - INFO - Processed table 2 from page 1
+2025-06-11 16:08:20,122 - INFO - Extracting tables from page 2/5
+2025-06-11 16:08:22,074 - INFO - Processed table 1 from page 2
+2025-06-11 16:08:22,076 - INFO - Extracting tables from page 3/5
+2025-06-11 16:08:23,075 - INFO - Processed table 1 from page 3
+2025-06-11 16:08:23,078 - INFO - Extracting tables from page 4/5
+2025-06-11 16:08:24,010 - INFO - Processed table 1 from page 4
+2025-06-11 16:08:24,011 - INFO - Extracting tables from page 5/5
+2025-06-11 16:08:24,246 - INFO - Processed table 1 from page 5
+2025-06-11 16:08:24,247 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:08:24,253 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:08:24,262 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:08:24,264 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:08:24,272 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:08:24,297 - INFO - Tables data processed successfully
+2025-06-11 16:08:24,304 - INFO - PDF processing complete.
+2025-06-11 16:08:48,621 - INFO - Opening PDF: test\statement1.pdf
+2025-06-11 16:08:48,628 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:08:48,633 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:08:48,642 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:08:48,647 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:08:48,654 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:08:48,660 - INFO - Extracting tables from page 1/5
+2025-06-11 16:08:50,379 - INFO - Processed table 1 from page 1
+2025-06-11 16:08:50,405 - INFO - Processed table 2 from page 1
+2025-06-11 16:08:50,410 - INFO - Extracting tables from page 2/5
+2025-06-11 16:08:51,873 - INFO - Processed table 1 from page 2
+2025-06-11 16:08:51,874 - INFO - Extracting tables from page 3/5
+2025-06-11 16:08:53,078 - INFO - Processed table 1 from page 3
+2025-06-11 16:08:53,079 - INFO - Extracting tables from page 4/5
+2025-06-11 16:08:54,530 - INFO - Processed table 1 from page 4
+2025-06-11 16:08:54,531 - INFO - Extracting tables from page 5/5
+2025-06-11 16:08:54,810 - INFO - Processed table 1 from page 5
+2025-06-11 16:08:54,811 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:08:54,812 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:08:54,814 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:08:54,820 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:08:54,827 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:08:54,834 - INFO - Tables data processed successfully
+2025-06-11 16:08:54,844 - INFO - PDF processing complete.
+2025-06-11 16:10:42,242 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:17:16,504 - INFO - Opening PDF: test\statement1.pdf
+2025-06-11 16:17:16,525 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:17:16,532 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:17:16,552 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:17:16,563 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:17:16,573 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:17:16,589 - INFO - Extracting tables from page 1/5
+2025-06-11 16:17:18,861 - INFO - Processed table 1 from page 1
+2025-06-11 16:17:18,865 - INFO - Processed table 2 from page 1
+2025-06-11 16:17:18,866 - INFO - Extracting tables from page 2/5
+2025-06-11 16:17:19,648 - INFO - Processed table 1 from page 2
+2025-06-11 16:17:19,652 - INFO - Extracting tables from page 3/5
+2025-06-11 16:17:20,589 - INFO - Processed table 1 from page 3
+2025-06-11 16:17:20,590 - INFO - Extracting tables from page 4/5
+2025-06-11 16:17:21,586 - INFO - Processed table 1 from page 4
+2025-06-11 16:17:21,587 - INFO - Extracting tables from page 5/5
+2025-06-11 16:17:22,183 - INFO - Processed table 1 from page 5
+2025-06-11 16:17:22,184 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:17:22,186 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:17:22,187 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:17:22,188 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:17:22,190 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:17:22,202 - INFO - Tables data processed successfully
+2025-06-11 16:17:22,204 - INFO - PDF processing complete.
+2025-06-11 16:17:42,770 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:23:14,580 - INFO - Opening PDF: test\statement1.pdf
+2025-06-11 16:23:14,590 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:23:14,592 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:23:14,593 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:23:14,595 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:23:14,597 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:23:14,597 - INFO - Extracting tables from page 1/5
+2025-06-11 16:23:15,512 - INFO - Processed table 1 from page 1
+2025-06-11 16:23:15,513 - INFO - Processed table 2 from page 1
+2025-06-11 16:23:15,513 - INFO - Extracting tables from page 2/5
+2025-06-11 16:23:16,646 - INFO - Processed table 1 from page 2
+2025-06-11 16:23:16,647 - INFO - Extracting tables from page 3/5
+2025-06-11 16:23:17,973 - INFO - Processed table 1 from page 3
+2025-06-11 16:23:17,974 - INFO - Extracting tables from page 4/5
+2025-06-11 16:23:18,775 - INFO - Processed table 1 from page 4
+2025-06-11 16:23:18,775 - INFO - Extracting tables from page 5/5
+2025-06-11 16:23:19,057 - INFO - Processed table 1 from page 5
+2025-06-11 16:23:19,058 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:23:19,058 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:23:19,058 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:23:19,058 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:23:19,060 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:23:19,061 - INFO - Tables data processed successfully
+2025-06-11 16:23:19,062 - INFO - PDF processing complete.
+2025-06-11 16:23:40,481 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:41:21,185 - INFO - Opening PDF: test\statement1.pdf
+2025-06-11 16:41:21,190 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:41:21,193 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:41:21,194 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:41:21,195 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:41:21,196 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:41:21,197 - INFO - Extracting tables from page 1/5
+2025-06-11 16:41:22,018 - INFO - Processed table 1 from page 1
+2025-06-11 16:41:22,019 - INFO - Processed table 2 from page 1
+2025-06-11 16:41:22,019 - INFO - Extracting tables from page 2/5
+2025-06-11 16:41:23,386 - INFO - Processed table 1 from page 2
+2025-06-11 16:41:23,389 - INFO - Extracting tables from page 3/5
+2025-06-11 16:41:24,498 - INFO - Processed table 1 from page 3
+2025-06-11 16:41:24,499 - INFO - Extracting tables from page 4/5
+2025-06-11 16:41:25,402 - INFO - Processed table 1 from page 4
+2025-06-11 16:41:25,404 - INFO - Extracting tables from page 5/5
+2025-06-11 16:41:25,640 - INFO - Processed table 1 from page 5
+2025-06-11 16:41:25,643 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:41:25,644 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:41:25,645 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:41:25,645 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:41:25,646 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 16:41:25,651 - INFO - Tables data processed successfully
+2025-06-11 16:41:25,651 - INFO - PDF processing complete.
+2025-06-11 16:41:30,141 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:41:30,153 - INFO - Split data into 4 chunks
+2025-06-11 16:41:30,155 - INFO - Processing chunk 1/4
+2025-06-11 16:41:42,551 - INFO - Retrying request to /chat/completions in 0.447954 seconds
+2025-06-11 16:43:51,197 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:43:51,464 - INFO - Processing chunk 2/4
+2025-06-11 16:45:49,129 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:45:49,403 - INFO - Processing chunk 3/4
+2025-06-11 16:47:53,995 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:47:54,269 - INFO - Processing chunk 4/4
+2025-06-11 16:48:19,338 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 16:48:19,345 - INFO - Total transactions extracted: 148
+2025-06-11 16:48:19,346 - INFO - Total transactions found: 148
+2025-06-11 17:19:43,261 - INFO - Opening PDF: test\statement2.pdf
+2025-06-11 17:19:43,358 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:19:43,431 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:19:43,497 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:19:43,553 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:19:43,616 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:19:43,685 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:19:43,727 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:19:43,728 - INFO - Extracting tables from page 1/7
+2025-06-11 17:19:43,975 - INFO - No tables found on page 1, extracting text as fallback...
+2025-06-11 17:19:43,992 - INFO - Processed text from page 1
+2025-06-11 17:19:43,992 - INFO - Extracting tables from page 2/7
+2025-06-11 17:19:44,428 - INFO - No tables found on page 2, extracting text as fallback...
+2025-06-11 17:19:44,482 - INFO - Processed text from page 2
+2025-06-11 17:19:44,482 - INFO - Extracting tables from page 3/7
+2025-06-11 17:19:44,849 - INFO - No tables found on page 3, extracting text as fallback...
+2025-06-11 17:19:44,877 - INFO - Processed text from page 3
+2025-06-11 17:19:44,878 - INFO - Extracting tables from page 4/7
+2025-06-11 17:19:45,161 - INFO - No tables found on page 4, extracting text as fallback...
+2025-06-11 17:19:45,342 - INFO - Processed text from page 4
+2025-06-11 17:19:45,343 - INFO - Extracting tables from page 5/7
+2025-06-11 17:19:45,898 - INFO - No tables found on page 5, extracting text as fallback...
+2025-06-11 17:19:45,921 - INFO - Processed text from page 5
+2025-06-11 17:19:45,921 - INFO - Extracting tables from page 6/7
+2025-06-11 17:19:46,291 - INFO - No tables found on page 6, extracting text as fallback...
+2025-06-11 17:19:46,309 - INFO - Processed text from page 6
+2025-06-11 17:19:46,309 - INFO - Extracting tables from page 7/7
+2025-06-11 17:19:46,672 - INFO - No tables found on page 7, extracting text as fallback...
+2025-06-11 17:19:46,690 - INFO - Processed text from page 7
+2025-06-11 17:19:46,690 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:19:46,690 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:19:46,691 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:19:46,692 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:19:46,693 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:19:46,693 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:19:46,693 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:19:46,695 - INFO - Text data processed successfully
+2025-06-11 17:19:46,695 - INFO - PDF processing complete.
+2025-06-11 17:19:50,442 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 17:19:50,493 - INFO - Split data into 6 chunks
+2025-06-11 17:19:50,510 - INFO - Processing chunk 1/6
+2025-06-11 17:20:20,974 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 17:20:20,982 - INFO - Processing chunk 2/6
+2025-06-11 17:21:17,574 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 17:21:17,576 - INFO - Processing chunk 3/6
+2025-06-11 17:22:31,957 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 17:22:31,968 - INFO - Processing chunk 4/6
+2025-06-11 17:23:43,403 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 17:23:43,413 - INFO - Processing chunk 5/6
+2025-06-11 17:24:38,060 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 17:24:38,064 - INFO - Processing chunk 6/6
+2025-06-11 17:25:11,607 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 17:25:11,614 - INFO - Total transactions extracted: 117
+2025-06-11 17:25:11,614 - INFO - Total transactions found: 117
+2025-06-11 17:36:11,301 - INFO - Opening PDF: test\statement2.pdf
+2025-06-11 17:36:11,358 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:36:11,401 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:36:11,443 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:36:11,479 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:36:11,521 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:36:11,563 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:36:11,595 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:36:11,595 - INFO - Extracting tables from page 1/7
+2025-06-11 17:36:11,737 - INFO - No tables found on page 1, extracting text as fallback...
+2025-06-11 17:36:11,745 - INFO - Processed text from page 1
+2025-06-11 17:36:11,745 - INFO - Extracting tables from page 2/7
+2025-06-11 17:36:11,943 - INFO - No tables found on page 2, extracting text as fallback...
+2025-06-11 17:36:11,965 - INFO - Processed text from page 2
+2025-06-11 17:36:11,965 - INFO - Extracting tables from page 3/7
+2025-06-11 17:36:12,164 - INFO - No tables found on page 3, extracting text as fallback...
+2025-06-11 17:36:12,176 - INFO - Processed text from page 3
+2025-06-11 17:36:12,176 - INFO - Extracting tables from page 4/7
+2025-06-11 17:36:12,371 - INFO - No tables found on page 4, extracting text as fallback...
+2025-06-11 17:36:12,434 - INFO - Processed text from page 4
+2025-06-11 17:36:12,434 - INFO - Extracting tables from page 5/7
+2025-06-11 17:36:12,605 - INFO - No tables found on page 5, extracting text as fallback...
+2025-06-11 17:36:12,615 - INFO - Processed text from page 5
+2025-06-11 17:36:12,615 - INFO - Extracting tables from page 6/7
+2025-06-11 17:36:12,844 - INFO - No tables found on page 6, extracting text as fallback...
+2025-06-11 17:36:12,854 - INFO - Processed text from page 6
+2025-06-11 17:36:12,854 - INFO - Extracting tables from page 7/7
+2025-06-11 17:36:13,159 - INFO - No tables found on page 7, extracting text as fallback...
+2025-06-11 17:36:13,166 - INFO - Processed text from page 7
+2025-06-11 17:36:13,167 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:36:13,168 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:36:13,168 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:36:13,168 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:36:13,169 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:36:13,169 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:36:13,170 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:36:13,171 - INFO - Text data processed successfully
+2025-06-11 17:36:13,171 - INFO - PDF processing complete.
+2025-06-11 17:36:18,034 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 17:36:18,055 - INFO - Split data into 6 chunks
+2025-06-11 17:36:18,055 - INFO - Processing chunk 1/6
+2025-06-11 17:36:55,871 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 17:36:55,871 - INFO - Processing chunk 2/6
+2025-06-11 17:38:33,099 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 17:38:33,105 - INFO - Processing chunk 3/6
+2025-06-11 17:40:01,821 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 17:40:01,829 - INFO - Processing chunk 4/6
+2025-06-11 17:41:05,074 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 17:41:05,077 - INFO - Processing chunk 5/6
+2025-06-11 17:41:58,008 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 17:41:58,008 - INFO - Processing chunk 6/6
+2025-06-11 17:42:21,151 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 17:42:21,154 - INFO - Total transactions extracted: 119
+2025-06-11 17:42:21,154 - INFO - Total transactions found: 119
+2025-06-11 17:59:37,334 - INFO - Opening PDF: test\statement2.pdf
+2025-06-11 17:59:37,427 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:59:37,492 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:59:37,540 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:59:37,601 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:59:37,654 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:59:37,765 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:59:37,959 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:59:37,960 - INFO - Extracting tables from page 1/7
+2025-06-11 17:59:38,414 - INFO - No tables found on page 1, extracting text as fallback...
+2025-06-11 17:59:38,441 - INFO - Processed text from page 1
+2025-06-11 17:59:38,443 - INFO - Extracting tables from page 2/7
+2025-06-11 17:59:38,894 - INFO - No tables found on page 2, extracting text as fallback...
+2025-06-11 17:59:38,920 - INFO - Processed text from page 2
+2025-06-11 17:59:38,921 - INFO - Extracting tables from page 3/7
+2025-06-11 17:59:39,277 - INFO - No tables found on page 3, extracting text as fallback...
+2025-06-11 17:59:39,293 - INFO - Processed text from page 3
+2025-06-11 17:59:39,295 - INFO - Extracting tables from page 4/7
+2025-06-11 17:59:39,851 - INFO - No tables found on page 4, extracting text as fallback...
+2025-06-11 17:59:40,033 - INFO - Processed text from page 4
+2025-06-11 17:59:40,034 - INFO - Extracting tables from page 5/7
+2025-06-11 17:59:40,324 - INFO - No tables found on page 5, extracting text as fallback...
+2025-06-11 17:59:40,334 - INFO - Processed text from page 5
+2025-06-11 17:59:40,337 - INFO - Extracting tables from page 6/7
+2025-06-11 17:59:40,645 - INFO - No tables found on page 6, extracting text as fallback...
+2025-06-11 17:59:40,684 - INFO - Processed text from page 6
+2025-06-11 17:59:40,684 - INFO - Extracting tables from page 7/7
+2025-06-11 17:59:41,329 - INFO - No tables found on page 7, extracting text as fallback...
+2025-06-11 17:59:41,344 - INFO - Processed text from page 7
+2025-06-11 17:59:41,344 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:59:41,349 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:59:41,350 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:59:41,351 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:59:41,351 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:59:41,351 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:59:41,354 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 17:59:41,361 - INFO - Text data processed successfully
+2025-06-11 17:59:41,362 - INFO - PDF processing complete.
+2025-06-11 17:59:45,063 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 17:59:45,088 - INFO - Split data into 7 chunks with 5 lines overlap
+2025-06-11 17:59:45,092 - INFO - Processing chunk 1/7
+2025-06-11 18:00:30,137 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 18:00:30,139 - INFO - Processing chunk 2/7
+2025-06-11 18:01:40,930 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 18:01:41,038 - INFO - Processing chunk 3/7
+2025-06-11 18:03:16,992 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 18:03:17,001 - INFO - Processing chunk 4/7
+2025-06-11 18:04:22,250 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 18:04:22,255 - INFO - Processing chunk 5/7
+2025-06-11 18:05:38,771 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 18:05:38,773 - INFO - Processing chunk 6/7
+2025-06-11 18:06:55,701 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 18:06:55,705 - INFO - Processing chunk 7/7
+2025-06-11 18:06:57,809 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 18:06:57,809 - ERROR - GPT response is not valid JSON. Raw output:
+The provided statement chunk doesn't contain any transactions. Therefore, the output will be an empty transactions array:
+
+{
+  "transactions": []
+}...
+2025-06-11 18:06:57,812 - INFO - Total unique transactions extracted: 125
+2025-06-11 18:06:57,812 - INFO - Total transactions found: 125
+2025-06-11 18:10:19,171 - INFO - Opening PDF: test\statement3.pdf
+2025-06-11 18:10:19,173 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:10:19,178 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:10:19,178 - INFO - Extracting tables from page 1/2
+2025-06-11 18:10:19,355 - INFO - No tables found on page 1, extracting text as fallback...
+2025-06-11 18:10:19,364 - INFO - Processed text from page 1
+2025-06-11 18:10:19,368 - INFO - Extracting tables from page 2/2
+2025-06-11 18:10:19,644 - INFO - No tables found on page 2, extracting text as fallback...
+2025-06-11 18:10:19,664 - INFO - Processed text from page 2
+2025-06-11 18:10:19,664 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:10:19,669 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:10:19,669 - INFO - Text data processed successfully
+2025-06-11 18:10:19,671 - INFO - PDF processing complete.
+2025-06-11 18:10:27,151 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 18:10:27,164 - ERROR - GPT response for account info is not valid JSON
+2025-06-11 18:10:27,164 - INFO - Split data into 2 chunks with 5 lines overlap
+2025-06-11 18:10:27,164 - INFO - Processing chunk 1/2
+2025-06-11 18:10:52,642 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 18:10:52,644 - INFO - Processing chunk 2/2
+2025-06-11 18:11:00,184 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 18:11:00,184 - INFO - Total unique transactions extracted: 8
+2025-06-11 18:11:00,187 - INFO - Total transactions found: 8
+2025-06-11 18:14:07,828 - INFO - Opening PDF: test\statement4.pdf
+2025-06-11 18:14:07,837 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:14:07,839 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:14:07,844 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:14:07,847 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:14:07,852 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:14:07,854 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:14:07,864 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:14:07,870 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:14:07,873 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:14:07,874 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:14:07,876 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:14:07,877 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:14:07,877 - INFO - Extracting tables from page 1/12
+2025-06-11 18:14:08,077 - INFO - No tables found on page 1, extracting text as fallback...
+2025-06-11 18:14:08,084 - INFO - Processed text from page 1
+2025-06-11 18:14:08,084 - INFO - Extracting tables from page 2/12
+2025-06-11 18:14:08,383 - INFO - No tables found on page 2, extracting text as fallback...
+2025-06-11 18:14:08,424 - INFO - Processed text from page 2
+2025-06-11 18:14:08,424 - INFO - Extracting tables from page 3/12
+2025-06-11 18:14:08,682 - INFO - No tables found on page 3, extracting text as fallback...
+2025-06-11 18:14:08,709 - INFO - Processed text from page 3
+2025-06-11 18:14:08,712 - INFO - Extracting tables from page 4/12
+2025-06-11 18:14:09,333 - INFO - No tables found on page 4, extracting text as fallback...
+2025-06-11 18:14:09,478 - INFO - Processed text from page 4
+2025-06-11 18:14:09,523 - INFO - Extracting tables from page 5/12
+2025-06-11 18:14:09,804 - INFO - No tables found on page 5, extracting text as fallback...
+2025-06-11 18:14:09,951 - INFO - Processed text from page 5
+2025-06-11 18:14:09,951 - INFO - Extracting tables from page 6/12
+2025-06-11 18:14:10,138 - INFO - No tables found on page 6, extracting text as fallback...
+2025-06-11 18:14:10,157 - INFO - Processed text from page 6
+2025-06-11 18:14:10,158 - INFO - Extracting tables from page 7/12
+2025-06-11 18:14:10,321 - INFO - No tables found on page 7, extracting text as fallback...
+2025-06-11 18:14:10,352 - INFO - Processed text from page 7
+2025-06-11 18:14:10,355 - INFO - Extracting tables from page 8/12
+2025-06-11 18:14:10,469 - INFO - No tables found on page 8, extracting text as fallback...
+2025-06-11 18:14:10,478 - INFO - Processed text from page 8
+2025-06-11 18:14:10,478 - INFO - Extracting tables from page 9/12
+2025-06-11 18:14:10,487 - INFO - No tables found on page 9, extracting text as fallback...
+2025-06-11 18:14:10,492 - INFO - Processed text from page 9
+2025-06-11 18:14:10,492 - INFO - Extracting tables from page 10/12
+2025-06-11 18:14:10,501 - INFO - No tables found on page 10, extracting text as fallback...
+2025-06-11 18:14:10,501 - INFO - Processed text from page 10
+2025-06-11 18:14:10,504 - INFO - Extracting tables from page 11/12
+2025-06-11 18:14:10,528 - INFO - No tables found on page 11, extracting text as fallback...
+2025-06-11 18:14:10,531 - INFO - Processed text from page 11
+2025-06-11 18:14:10,531 - INFO - Extracting tables from page 12/12
+2025-06-11 18:14:10,544 - INFO - No tables found on page 12, extracting text as fallback...
+2025-06-11 18:14:10,550 - INFO - Processed text from page 12
+2025-06-11 18:14:10,550 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:14:10,551 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:14:10,557 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:14:10,557 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:14:10,557 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:14:10,557 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:14:10,557 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:14:10,557 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:14:10,557 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:14:10,557 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:14:10,557 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:14:10,561 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:14:10,565 - INFO - Text data processed successfully
+2025-06-11 18:14:10,565 - INFO - PDF processing complete.
+2025-06-11 18:14:14,883 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 18:14:14,921 - ERROR - GPT response for account info is not valid JSON
+2025-06-11 18:14:14,923 - INFO - Split data into 7 chunks with 5 lines overlap
+2025-06-11 18:14:14,927 - INFO - Processing chunk 1/7
+2025-06-11 18:14:17,934 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 18:14:17,938 - ERROR - GPT response is not valid JSON. Raw output:
+The provided statement chunk does not contain any transaction data. Please provide a statement chunk with transaction data....
+2025-06-11 18:14:17,938 - INFO - Processing chunk 2/7
+2025-06-11 18:15:01,902 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 18:15:01,909 - INFO - Processing chunk 3/7
+2025-06-11 18:16:49,926 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 18:16:49,941 - INFO - Processing chunk 4/7
+2025-06-11 18:19:20,228 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 18:19:20,516 - INFO - Processing chunk 5/7
+2025-06-11 18:21:12,799 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 18:21:13,071 - INFO - Processing chunk 6/7
+2025-06-11 18:23:02,946 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 18:23:03,281 - INFO - Processing chunk 7/7
+2025-06-11 18:23:22,587 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 18:23:22,591 - INFO - Total unique transactions extracted: 168
+2025-06-11 18:23:22,592 - INFO - Total transactions found: 168
+2025-06-11 18:38:47,899 - INFO - Opening PDF: test\statement4.pdf
+2025-06-11 18:38:47,904 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:38:47,904 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:38:47,908 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:38:47,909 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:38:47,909 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:38:47,909 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:38:47,912 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:38:47,913 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:38:47,915 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:38:47,915 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:38:47,915 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:38:47,915 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:38:47,918 - INFO - Extracting tables from page 1/12
+2025-06-11 18:38:48,095 - INFO - No tables found on page 1, extracting text as fallback...
+2025-06-11 18:38:48,102 - INFO - Processed text from page 1
+2025-06-11 18:38:48,104 - INFO - Extracting tables from page 2/12
+2025-06-11 18:38:48,377 - INFO - No tables found on page 2, extracting text as fallback...
+2025-06-11 18:38:48,408 - INFO - Processed text from page 2
+2025-06-11 18:38:48,408 - INFO - Extracting tables from page 3/12
+2025-06-11 18:38:48,614 - INFO - No tables found on page 3, extracting text as fallback...
+2025-06-11 18:38:48,631 - INFO - Processed text from page 3
+2025-06-11 18:38:48,631 - INFO - Extracting tables from page 4/12
+2025-06-11 18:38:48,838 - INFO - No tables found on page 4, extracting text as fallback...
+2025-06-11 18:38:48,874 - INFO - Processed text from page 4
+2025-06-11 18:38:48,874 - INFO - Extracting tables from page 5/12
+2025-06-11 18:38:49,063 - INFO - No tables found on page 5, extracting text as fallback...
+2025-06-11 18:38:49,182 - INFO - Processed text from page 5
+2025-06-11 18:38:49,184 - INFO - Extracting tables from page 6/12
+2025-06-11 18:38:49,381 - INFO - No tables found on page 6, extracting text as fallback...
+2025-06-11 18:38:49,404 - INFO - Processed text from page 6
+2025-06-11 18:38:49,404 - INFO - Extracting tables from page 7/12
+2025-06-11 18:38:49,577 - INFO - No tables found on page 7, extracting text as fallback...
+2025-06-11 18:38:49,593 - INFO - Processed text from page 7
+2025-06-11 18:38:49,593 - INFO - Extracting tables from page 8/12
+2025-06-11 18:38:49,681 - INFO - No tables found on page 8, extracting text as fallback...
+2025-06-11 18:38:49,688 - INFO - Processed text from page 8
+2025-06-11 18:38:49,688 - INFO - Extracting tables from page 9/12
+2025-06-11 18:38:49,701 - INFO - No tables found on page 9, extracting text as fallback...
+2025-06-11 18:38:49,702 - INFO - Processed text from page 9
+2025-06-11 18:38:49,702 - INFO - Extracting tables from page 10/12
+2025-06-11 18:38:49,709 - INFO - No tables found on page 10, extracting text as fallback...
+2025-06-11 18:38:49,713 - INFO - Processed text from page 10
+2025-06-11 18:38:49,713 - INFO - Extracting tables from page 11/12
+2025-06-11 18:38:49,726 - INFO - No tables found on page 11, extracting text as fallback...
+2025-06-11 18:38:49,727 - INFO - Processed text from page 11
+2025-06-11 18:38:49,727 - INFO - Extracting tables from page 12/12
+2025-06-11 18:38:49,744 - INFO - No tables found on page 12, extracting text as fallback...
+2025-06-11 18:38:49,746 - INFO - Processed text from page 12
+2025-06-11 18:38:49,746 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:38:49,746 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:38:49,749 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:38:49,749 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:38:49,751 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:38:49,751 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:38:49,752 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:38:49,752 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:38:49,752 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:38:49,754 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:38:49,755 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:38:49,755 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:38:49,758 - INFO - Text data processed successfully
+2025-06-11 18:38:49,763 - INFO - PDF processing complete.
+2025-06-11 18:38:53,678 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 18:38:53,688 - INFO - Successfully extracted account information
+2025-06-11 18:38:53,688 - INFO - Processing chunk 1/1
+2025-06-11 18:38:56,114 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 18:38:56,119 - ERROR - GPT response for transactions is not valid JSON
+2025-06-11 18:38:56,119 - INFO - Total unique transactions extracted: 0
+2025-06-11 18:41:28,014 - INFO - Opening PDF: test\statement4.pdf
+2025-06-11 18:41:28,022 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:41:28,023 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:41:28,027 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:41:28,029 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:41:28,033 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:41:28,034 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:41:28,034 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:41:28,038 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:41:28,042 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:41:28,049 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:41:28,053 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:41:28,055 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:41:28,055 - INFO - Extracting tables from page 1/12
+2025-06-11 18:41:28,232 - INFO - No tables found on page 1, extracting text as fallback...
+2025-06-11 18:41:28,249 - INFO - Processed text from page 1
+2025-06-11 18:41:28,251 - INFO - Extracting tables from page 2/12
+2025-06-11 18:41:28,521 - INFO - No tables found on page 2, extracting text as fallback...
+2025-06-11 18:41:28,574 - INFO - Processed text from page 2
+2025-06-11 18:41:28,576 - INFO - Extracting tables from page 3/12
+2025-06-11 18:41:28,788 - INFO - No tables found on page 3, extracting text as fallback...
+2025-06-11 18:41:28,804 - INFO - Processed text from page 3
+2025-06-11 18:41:28,804 - INFO - Extracting tables from page 4/12
+2025-06-11 18:41:29,062 - INFO - No tables found on page 4, extracting text as fallback...
+2025-06-11 18:41:29,095 - INFO - Processed text from page 4
+2025-06-11 18:41:29,095 - INFO - Extracting tables from page 5/12
+2025-06-11 18:41:29,313 - INFO - No tables found on page 5, extracting text as fallback...
+2025-06-11 18:41:29,536 - INFO - Processed text from page 5
+2025-06-11 18:41:29,536 - INFO - Extracting tables from page 6/12
+2025-06-11 18:41:29,805 - INFO - No tables found on page 6, extracting text as fallback...
+2025-06-11 18:41:29,827 - INFO - Processed text from page 6
+2025-06-11 18:41:29,827 - INFO - Extracting tables from page 7/12
+2025-06-11 18:41:30,160 - INFO - No tables found on page 7, extracting text as fallback...
+2025-06-11 18:41:30,205 - INFO - Processed text from page 7
+2025-06-11 18:41:30,205 - INFO - Extracting tables from page 8/12
+2025-06-11 18:41:30,624 - INFO - No tables found on page 8, extracting text as fallback...
+2025-06-11 18:41:30,662 - INFO - Processed text from page 8
+2025-06-11 18:41:30,664 - INFO - Extracting tables from page 9/12
+2025-06-11 18:41:30,726 - INFO - No tables found on page 9, extracting text as fallback...
+2025-06-11 18:41:30,728 - INFO - Processed text from page 9
+2025-06-11 18:41:30,728 - INFO - Extracting tables from page 10/12
+2025-06-11 18:41:30,772 - INFO - No tables found on page 10, extracting text as fallback...
+2025-06-11 18:41:30,778 - INFO - Processed text from page 10
+2025-06-11 18:41:30,778 - INFO - Extracting tables from page 11/12
+2025-06-11 18:41:30,819 - INFO - No tables found on page 11, extracting text as fallback...
+2025-06-11 18:41:30,827 - INFO - Processed text from page 11
+2025-06-11 18:41:30,830 - INFO - Extracting tables from page 12/12
+2025-06-11 18:41:30,855 - INFO - No tables found on page 12, extracting text as fallback...
+2025-06-11 18:41:30,858 - INFO - Processed text from page 12
+2025-06-11 18:41:30,862 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:41:30,863 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:41:30,865 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:41:30,865 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:41:30,870 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:41:30,873 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:41:30,873 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:41:30,875 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:41:30,881 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:41:30,893 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:41:30,895 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:41:30,895 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:41:30,905 - INFO - Text data processed successfully
+2025-06-11 18:41:30,909 - INFO - PDF processing complete.
+2025-06-11 18:41:36,573 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 18:41:36,619 - INFO - Successfully extracted account information
+2025-06-11 18:41:36,621 - INFO - Split data into 6 chunks with 500 character overlap
+2025-06-11 18:41:36,622 - INFO - Processing chunk 1/6
+2025-06-11 18:41:38,183 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 18:41:38,184 - ERROR - GPT response for transactions is not valid JSON
+2025-06-11 18:41:38,184 - INFO - Processing chunk 2/6
+2025-06-11 18:42:40,172 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 18:42:40,177 - INFO - Processing chunk 3/6
+2025-06-11 18:44:45,490 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 18:44:45,713 - INFO - Processing chunk 4/6
+2025-06-11 18:47:15,642 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 18:47:15,957 - INFO - Processing chunk 5/6
+2025-06-11 18:49:32,438 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 18:49:32,616 - INFO - Processing chunk 6/6
+2025-06-11 18:49:50,335 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 18:49:50,351 - INFO - Total unique transactions extracted: 171
+2025-06-11 18:49:50,353 - INFO - Total transactions found: 171
+2025-06-11 18:49:50,354 - INFO - Account holder: KHALIFA ALMHEIRI
+2025-06-11 18:49:50,355 - INFO - Account number: 3251 6497 3415
+2025-06-11 18:53:32,969 - INFO - Opening PDF: test\statement3.pdf
+2025-06-11 18:53:32,983 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:53:32,992 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:53:32,996 - INFO - Extracting tables from page 1/2
+2025-06-11 18:53:33,444 - INFO - No tables found on page 1, extracting text as fallback...
+2025-06-11 18:53:33,462 - INFO - Processed text from page 1
+2025-06-11 18:53:33,463 - INFO - Extracting tables from page 2/2
+2025-06-11 18:53:33,645 - INFO - No tables found on page 2, extracting text as fallback...
+2025-06-11 18:53:33,653 - INFO - Processed text from page 2
+2025-06-11 18:53:33,654 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:53:33,655 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 18:53:33,656 - INFO - Text data processed successfully
+2025-06-11 18:53:33,657 - INFO - PDF processing complete.
+2025-06-11 18:53:38,283 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 18:53:38,338 - INFO - Successfully extracted account information
+2025-06-11 18:53:38,340 - INFO - Split data into 2 chunks with 500 character overlap
+2025-06-11 18:53:38,341 - INFO - Processing chunk 1/2
+2025-06-11 18:54:05,417 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 18:54:05,424 - INFO - Processing chunk 2/2
+2025-06-11 18:54:15,246 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 18:54:15,251 - INFO - Total unique transactions extracted: 8
+2025-06-11 18:54:15,252 - INFO - Total transactions found: 8
+2025-06-11 18:54:15,252 - INFO - Account holder: MUHAMMAD SAAD NAEEM
+2025-06-11 18:54:15,255 - INFO - Account number: 03350708770
+2025-06-11 19:06:41,924 - INFO - Opening PDF: test\statement3.pdf
+2025-06-11 19:06:41,926 - INFO - Processing PDF
+2025-06-11 19:06:41,928 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 19:06:41,929 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 19:06:41,932 - INFO - Extracting tables from page 1/2
+2025-06-11 19:06:42,105 - INFO - No tables found on page 1, extracting text as fallback...
+2025-06-11 19:06:42,119 - INFO - Processed text from page 1
+2025-06-11 19:06:42,119 - INFO - Extracting tables from page 2/2
+2025-06-11 19:06:42,213 - INFO - No tables found on page 2, extracting text as fallback...
+2025-06-11 19:06:42,220 - INFO - Processed text from page 2
+2025-06-11 19:06:42,221 - INFO - Text data processed successfully
+2025-06-11 19:06:42,221 - INFO - PDF processing complete.
+2025-06-11 19:06:42,222 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 19:06:42,222 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 19:06:47,669 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 19:06:47,727 - INFO - Successfully extracted account information
+2025-06-11 19:06:47,727 - INFO - Split data into 2 chunks with 500 character overlap
+2025-06-11 19:06:47,728 - INFO - Processing chunk 1/2
+2025-06-11 19:07:20,299 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 19:07:20,309 - INFO - Processing chunk 2/2
+2025-06-11 19:07:28,726 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 19:07:28,741 - INFO - Total unique transactions extracted: 8
+2025-06-11 19:07:28,741 - INFO - Total transactions found: 8
+2025-06-11 19:07:28,741 - INFO - Account holder: MUHAMMAD SAAD NAEEM
+2025-06-11 19:07:28,742 - INFO - Account number: 03350708770
+2025-06-11 19:19:38,643 - INFO - Opening PDF: test\statement3.pdf
+2025-06-11 19:19:38,646 - INFO - Processing PDF
+2025-06-11 19:19:38,650 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 19:19:38,654 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 19:19:38,654 - INFO - Extracting tables from page 1/2
+2025-06-11 19:19:38,919 - INFO - No tables found on page 1, extracting text as fallback...
+2025-06-11 19:19:38,939 - INFO - Processed text from page 1
+2025-06-11 19:19:38,940 - INFO - Extracting tables from page 2/2
+2025-06-11 19:19:39,105 - INFO - No tables found on page 2, extracting text as fallback...
+2025-06-11 19:19:39,124 - INFO - Processed text from page 2
+2025-06-11 19:19:39,128 - INFO - Text data processed successfully
+2025-06-11 19:19:39,130 - INFO - PDF processing complete.
+2025-06-11 19:19:45,128 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 19:19:45,169 - INFO - Successfully extracted account information
+2025-06-11 19:19:45,170 - INFO - Split data into 2 chunks with 500 character overlap
+2025-06-11 19:19:45,171 - INFO - Processing chunk 1/2
+2025-06-11 19:20:17,933 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 19:20:17,936 - INFO - Processing chunk 2/2
+2025-06-11 19:20:23,111 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 19:20:23,117 - INFO - Total unique transactions extracted: 8
+2025-06-11 19:20:23,118 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 19:20:23,119 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 19:31:33,688 - INFO - Opening PDF: test\statement1.pdf
+2025-06-11 19:31:33,691 - INFO - Processing PDF
+2025-06-11 19:31:33,694 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 19:31:33,697 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 19:31:33,699 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 19:31:33,700 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 19:31:33,702 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 19:31:33,702 - INFO - Extracting tables from page 1/5
+2025-06-11 19:31:34,384 - INFO - Processed table 1 from page 1
+2025-06-11 19:31:34,384 - INFO - Processed table 2 from page 1
+2025-06-11 19:31:34,385 - INFO - Extracting tables from page 2/5
+2025-06-11 19:31:35,151 - INFO - Processed table 1 from page 2
+2025-06-11 19:31:35,151 - INFO - Extracting tables from page 3/5
+2025-06-11 19:31:36,179 - INFO - Processed table 1 from page 3
+2025-06-11 19:31:36,180 - INFO - Extracting tables from page 4/5
+2025-06-11 19:31:36,906 - INFO - Processed table 1 from page 4
+2025-06-11 19:31:36,907 - INFO - Extracting tables from page 5/5
+2025-06-11 19:31:37,156 - INFO - Processed table 1 from page 5
+2025-06-11 19:31:37,162 - INFO - Tables data processed successfully
+2025-06-11 19:31:37,162 - INFO - PDF processing complete.
+2025-06-11 19:31:43,729 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 19:31:43,739 - INFO - Successfully extracted account information
+2025-06-11 19:31:43,740 - INFO - Split data into 5 chunks with 500 character overlap
+2025-06-11 19:31:43,740 - INFO - Processing chunk 1/5
+2025-06-11 19:34:01,832 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 19:34:01,833 - INFO - Processing chunk 2/5
+2025-06-11 19:37:02,461 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 19:37:02,727 - INFO - Processing chunk 3/5
+2025-06-11 19:40:12,409 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 19:40:12,666 - INFO - Processing chunk 4/5
+2025-06-11 19:42:29,762 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 19:42:30,149 - INFO - Processing chunk 5/5
+2025-06-11 19:42:31,756 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-11 19:42:31,758 - ERROR - GPT response for transactions is not valid JSON
+2025-06-11 19:42:31,758 - INFO - Total unique transactions extracted: 152
+2025-06-11 19:42:31,759 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 19:42:31,759 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 19:42:31,759 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 19:42:31,759 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-11 19:42:31,759 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 10:58:50,318 - INFO - Opening PDF: test\statement3.pdf
+2025-06-12 10:58:50,333 - INFO - Processing PDF
+2025-06-12 10:58:50,337 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 10:58:50,342 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 10:58:50,342 - INFO - Extracting tables from page 1/2
+2025-06-12 10:58:50,560 - INFO - No tables found on page 1, extracting text as fallback...
+2025-06-12 10:58:50,578 - INFO - Processed text from page 1
+2025-06-12 10:58:50,578 - INFO - Extracting tables from page 2/2
+2025-06-12 10:58:50,706 - INFO - No tables found on page 2, extracting text as fallback...
+2025-06-12 10:58:50,713 - INFO - Processed text from page 2
+2025-06-12 10:58:50,723 - INFO - Text data processed successfully
+2025-06-12 10:58:50,723 - INFO - PDF processing complete.
+2025-06-12 10:58:54,601 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 10:58:54,621 - INFO - Successfully extracted account information
+2025-06-12 10:58:54,621 - INFO - Split data into 2 chunks with 500 character overlap
+2025-06-12 10:58:54,621 - INFO - Processing chunk 1/2
+2025-06-12 10:59:18,821 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 10:59:18,829 - INFO - Processing chunk 2/2
+2025-06-12 10:59:25,414 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 10:59:25,418 - INFO - Total unique transactions extracted: 8
+2025-06-12 10:59:25,418 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 10:59:25,418 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 11:12:31,828 - INFO - Opening PDF: test\statement3.pdf
+2025-06-12 11:12:31,833 - INFO - Processing PDF
+2025-06-12 11:12:31,833 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 11:12:31,837 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 11:12:31,838 - INFO - Extracting tables from page 1/2
+2025-06-12 11:12:32,042 - INFO - No tables found on page 1, extracting text as fallback...
+2025-06-12 11:12:32,060 - INFO - Processed text from page 1
+2025-06-12 11:12:32,060 - INFO - Extracting tables from page 2/2
+2025-06-12 11:12:32,171 - INFO - No tables found on page 2, extracting text as fallback...
+2025-06-12 11:12:32,181 - INFO - Processed text from page 2
+2025-06-12 11:12:32,183 - INFO - Text data processed successfully
+2025-06-12 11:12:32,183 - INFO - PDF processing complete.
+2025-06-12 11:12:36,509 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 11:12:36,521 - INFO - Successfully extracted account information
+2025-06-12 11:12:36,521 - INFO - Split data into 2 chunks with 500 character overlap
+2025-06-12 11:12:36,521 - INFO - Processing chunk 1/2
+2025-06-12 11:12:58,078 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 11:12:58,082 - INFO - Processing chunk 2/2
+2025-06-12 11:13:05,149 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 11:13:05,154 - INFO - Total unique transactions extracted: 8
+2025-06-12 11:13:05,154 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 11:13:05,154 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:13:29,970 - INFO - Processing file: <tempfile.SpooledTemporaryFile object at 0x000001B549295DE0>
+2025-06-12 12:13:29,985 - INFO - Processing PDF
+2025-06-12 12:13:30,014 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:13:30,048 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:13:30,079 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:13:30,107 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:13:30,139 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:13:30,169 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:13:30,195 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:13:30,195 - INFO - Extracting tables from page 1/7
+2025-06-12 12:13:30,300 - INFO - No tables found on page 1, extracting text as fallback...
+2025-06-12 12:13:30,305 - INFO - Processed text from page 1
+2025-06-12 12:13:30,305 - INFO - Extracting tables from page 2/7
+2025-06-12 12:13:30,513 - INFO - No tables found on page 2, extracting text as fallback...
+2025-06-12 12:13:30,521 - INFO - Processed text from page 2
+2025-06-12 12:13:30,521 - INFO - Extracting tables from page 3/7
+2025-06-12 12:13:30,663 - INFO - No tables found on page 3, extracting text as fallback...
+2025-06-12 12:13:30,672 - INFO - Processed text from page 3
+2025-06-12 12:13:30,672 - INFO - Extracting tables from page 4/7
+2025-06-12 12:13:30,815 - INFO - No tables found on page 4, extracting text as fallback...
+2025-06-12 12:13:30,823 - INFO - Processed text from page 4
+2025-06-12 12:13:30,823 - INFO - Extracting tables from page 5/7
+2025-06-12 12:13:30,966 - INFO - No tables found on page 5, extracting text as fallback...
+2025-06-12 12:13:30,974 - INFO - Processed text from page 5
+2025-06-12 12:13:30,974 - INFO - Extracting tables from page 6/7
+2025-06-12 12:13:31,120 - INFO - No tables found on page 6, extracting text as fallback...
+2025-06-12 12:13:31,128 - INFO - Processed text from page 6
+2025-06-12 12:13:31,129 - INFO - Extracting tables from page 7/7
+2025-06-12 12:13:31,305 - INFO - No tables found on page 7, extracting text as fallback...
+2025-06-12 12:13:31,310 - INFO - Processed text from page 7
+2025-06-12 12:13:31,310 - INFO - Text data processed successfully
+2025-06-12 12:13:31,310 - INFO - PDF processing complete.
+2025-06-12 12:13:31,313 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:13:31,313 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:13:31,314 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:13:31,315 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:13:31,315 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:13:31,315 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:13:31,316 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:13:42,396 - INFO - Retrying request to /chat/completions in 0.484611 seconds
+2025-06-12 12:13:42,887 - INFO - Retrying request to /chat/completions in 0.953670 seconds
+2025-06-12 12:13:43,888 - ERROR - Error extracting account info: Connection error.
+2025-06-12 12:13:43,893 - INFO - Split data into 5 chunks with 500 character overlap
+2025-06-12 12:13:43,922 - INFO - Processing chunk 1/5
+2025-06-12 12:13:43,923 - INFO - Retrying request to /chat/completions in 0.378358 seconds
+2025-06-12 12:13:44,310 - INFO - Retrying request to /chat/completions in 0.898756 seconds
+2025-06-12 12:13:45,221 - ERROR - Error extracting transactions: Connection error.
+2025-06-12 12:13:45,221 - INFO - Processing chunk 2/5
+2025-06-12 12:13:45,221 - INFO - Retrying request to /chat/completions in 0.465533 seconds
+2025-06-12 12:13:45,696 - INFO - Retrying request to /chat/completions in 0.891953 seconds
+2025-06-12 12:13:46,603 - ERROR - Error extracting transactions: Connection error.
+2025-06-12 12:13:46,603 - INFO - Processing chunk 3/5
+2025-06-12 12:13:46,603 - INFO - Retrying request to /chat/completions in 0.479586 seconds
+2025-06-12 12:13:47,087 - INFO - Retrying request to /chat/completions in 0.902848 seconds
+2025-06-12 12:13:47,999 - ERROR - Error extracting transactions: Connection error.
+2025-06-12 12:13:47,999 - INFO - Processing chunk 4/5
+2025-06-12 12:13:48,003 - INFO - Retrying request to /chat/completions in 0.473279 seconds
+2025-06-12 12:13:48,478 - INFO - Retrying request to /chat/completions in 0.887216 seconds
+2025-06-12 12:13:49,371 - ERROR - Error extracting transactions: Connection error.
+2025-06-12 12:13:49,371 - INFO - Processing chunk 5/5
+2025-06-12 12:13:49,371 - INFO - Retrying request to /chat/completions in 0.450027 seconds
+2025-06-12 12:13:49,829 - INFO - Retrying request to /chat/completions in 0.813955 seconds
+2025-06-12 12:13:50,655 - ERROR - Error extracting transactions: Connection error.
+2025-06-12 12:13:50,655 - INFO - Total unique transactions extracted: 0
+2025-06-12 12:16:10,230 - INFO - Processing file: <tempfile.SpooledTemporaryFile object at 0x00000215447D6560>
+2025-06-12 12:16:10,231 - INFO - Processing PDF
+2025-06-12 12:16:10,233 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:16:10,233 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:16:10,233 - INFO - Extracting tables from page 1/2
+2025-06-12 12:16:10,333 - INFO - No tables found on page 1, extracting text as fallback...
+2025-06-12 12:16:10,341 - INFO - Processed text from page 1
+2025-06-12 12:16:10,341 - INFO - Extracting tables from page 2/2
+2025-06-12 12:16:10,390 - INFO - No tables found on page 2, extracting text as fallback...
+2025-06-12 12:16:10,394 - INFO - Processed text from page 2
+2025-06-12 12:16:10,395 - INFO - Text data processed successfully
+2025-06-12 12:16:10,395 - INFO - PDF processing complete.
+2025-06-12 12:16:10,396 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:16:10,396 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:16:10,414 - INFO - Retrying request to /chat/completions in 0.437478 seconds
+2025-06-12 12:16:10,864 - INFO - Retrying request to /chat/completions in 0.771355 seconds
+2025-06-12 12:16:11,639 - ERROR - Error extracting account info: Connection error.
+2025-06-12 12:16:11,639 - INFO - Split data into 2 chunks with 500 character overlap
+2025-06-12 12:16:11,639 - INFO - Processing chunk 1/2
+2025-06-12 12:16:11,642 - INFO - Retrying request to /chat/completions in 0.451586 seconds
+2025-06-12 12:16:12,096 - INFO - Retrying request to /chat/completions in 0.875612 seconds
+2025-06-12 12:16:12,978 - ERROR - Error extracting transactions: Connection error.
+2025-06-12 12:16:12,978 - INFO - Processing chunk 2/2
+2025-06-12 12:16:12,982 - INFO - Retrying request to /chat/completions in 0.445067 seconds
+2025-06-12 12:16:13,446 - INFO - Retrying request to /chat/completions in 0.821999 seconds
+2025-06-12 12:16:14,275 - ERROR - Error extracting transactions: Connection error.
+2025-06-12 12:16:14,275 - INFO - Total unique transactions extracted: 0
+2025-06-12 12:17:10,413 - INFO - Processing file: <tempfile.SpooledTemporaryFile object at 0x0000028D1C3B6530>
+2025-06-12 12:17:10,413 - INFO - Processing PDF
+2025-06-12 12:17:10,413 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:17:10,418 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:17:10,418 - INFO - Extracting tables from page 1/2
+2025-06-12 12:17:10,514 - INFO - No tables found on page 1, extracting text as fallback...
+2025-06-12 12:17:10,524 - INFO - Processed text from page 1
+2025-06-12 12:17:10,524 - INFO - Extracting tables from page 2/2
+2025-06-12 12:17:10,574 - INFO - No tables found on page 2, extracting text as fallback...
+2025-06-12 12:17:10,578 - INFO - Processed text from page 2
+2025-06-12 12:17:10,578 - INFO - Text data processed successfully
+2025-06-12 12:17:10,578 - INFO - PDF processing complete.
+2025-06-12 12:17:10,578 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:17:10,578 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:17:21,684 - INFO - Retrying request to /chat/completions in 0.427276 seconds
+2025-06-12 12:17:22,113 - INFO - Retrying request to /chat/completions in 0.986795 seconds
+2025-06-12 12:17:23,107 - ERROR - Error extracting account info: Connection error.
+2025-06-12 12:17:23,107 - INFO - Split data into 2 chunks with 500 character overlap
+2025-06-12 12:17:23,107 - INFO - Processing chunk 1/2
+2025-06-12 12:17:23,109 - INFO - Retrying request to /chat/completions in 0.459000 seconds
+2025-06-12 12:17:23,576 - INFO - Retrying request to /chat/completions in 0.782930 seconds
+2025-06-12 12:17:24,374 - ERROR - Error extracting transactions: Connection error.
+2025-06-12 12:17:24,374 - INFO - Processing chunk 2/2
+2025-06-12 12:17:24,378 - INFO - Retrying request to /chat/completions in 0.422878 seconds
+2025-06-12 12:17:24,814 - INFO - Retrying request to /chat/completions in 0.893739 seconds
+2025-06-12 12:17:25,724 - ERROR - Error extracting transactions: Connection error.
+2025-06-12 12:17:25,724 - INFO - Total unique transactions extracted: 0
+2025-06-12 12:18:49,046 - INFO - Processing file: <tempfile.SpooledTemporaryFile object at 0x000001D9B0366530>
+2025-06-12 12:18:49,046 - INFO - Processing PDF
+2025-06-12 12:18:49,049 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:18:49,049 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:18:49,049 - INFO - Extracting tables from page 1/2
+2025-06-12 12:18:49,146 - INFO - No tables found on page 1, extracting text as fallback...
+2025-06-12 12:18:49,151 - INFO - Processed text from page 1
+2025-06-12 12:18:49,151 - INFO - Extracting tables from page 2/2
+2025-06-12 12:18:49,203 - INFO - No tables found on page 2, extracting text as fallback...
+2025-06-12 12:18:49,210 - INFO - Processed text from page 2
+2025-06-12 12:18:49,210 - INFO - Text data processed successfully
+2025-06-12 12:18:49,210 - INFO - PDF processing complete.
+2025-06-12 12:18:49,211 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:18:49,211 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:18:54,464 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 12:18:54,474 - INFO - Successfully extracted account information
+2025-06-12 12:18:54,475 - INFO - Split data into 2 chunks with 500 character overlap
+2025-06-12 12:18:54,475 - INFO - Processing chunk 1/2
+2025-06-12 12:19:19,755 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 12:19:19,760 - INFO - Processing chunk 2/2
+2025-06-12 12:19:25,138 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 12:19:25,138 - INFO - Total unique transactions extracted: 8
+2025-06-12 12:20:01,664 - INFO - Processing file: <tempfile.SpooledTemporaryFile object at 0x000001D9B0365630>
+2025-06-12 12:20:01,664 - INFO - Processing PDF
+2025-06-12 12:20:01,664 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:20:01,668 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:20:01,668 - INFO - Extracting tables from page 1/2
+2025-06-12 12:20:01,827 - INFO - No tables found on page 1, extracting text as fallback...
+2025-06-12 12:20:01,832 - INFO - Processed text from page 1
+2025-06-12 12:20:01,833 - INFO - Extracting tables from page 2/2
+2025-06-12 12:20:01,886 - INFO - No tables found on page 2, extracting text as fallback...
+2025-06-12 12:20:01,887 - INFO - Processed text from page 2
+2025-06-12 12:20:01,887 - INFO - Text data processed successfully
+2025-06-12 12:20:01,887 - INFO - PDF processing complete.
+2025-06-12 12:20:01,887 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:20:01,891 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:20:07,060 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 12:20:07,060 - INFO - Successfully extracted account information
+2025-06-12 12:20:07,060 - INFO - Split data into 2 chunks with 500 character overlap
+2025-06-12 12:20:07,063 - INFO - Processing chunk 1/2
+2025-06-12 12:20:36,102 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 12:20:36,113 - INFO - Processing chunk 2/2
+2025-06-12 12:20:40,821 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 12:20:40,821 - INFO - Total unique transactions extracted: 8
+2025-06-12 12:21:59,396 - INFO - Processing file: <tempfile.SpooledTemporaryFile object at 0x0000024A052C6530>
+2025-06-12 12:21:59,397 - INFO - Processing PDF
+2025-06-12 12:21:59,399 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:21:59,399 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:21:59,399 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:21:59,399 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:21:59,399 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:21:59,399 - INFO - Extracting tables from page 1/5
+2025-06-12 12:21:59,645 - INFO - Processed table 1 from page 1
+2025-06-12 12:21:59,646 - INFO - Processed table 2 from page 1
+2025-06-12 12:21:59,646 - INFO - Extracting tables from page 2/5
+2025-06-12 12:21:59,963 - INFO - Processed table 1 from page 2
+2025-06-12 12:21:59,963 - INFO - Extracting tables from page 3/5
+2025-06-12 12:22:00,237 - INFO - Processed table 1 from page 3
+2025-06-12 12:22:00,237 - INFO - Extracting tables from page 4/5
+2025-06-12 12:22:00,521 - INFO - Processed table 1 from page 4
+2025-06-12 12:22:00,521 - INFO - Extracting tables from page 5/5
+2025-06-12 12:22:00,600 - INFO - Processed table 1 from page 5
+2025-06-12 12:22:00,610 - INFO - Tables data processed successfully
+2025-06-12 12:22:00,610 - INFO - PDF processing complete.
+2025-06-12 12:22:00,612 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:22:00,612 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:22:00,613 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:22:00,614 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:22:00,614 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-06-12 12:22:06,441 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 12:22:06,449 - INFO - Successfully extracted account information
+2025-06-12 12:22:06,449 - INFO - Split data into 5 chunks with 500 character overlap
+2025-06-12 12:22:06,449 - INFO - Processing chunk 1/5
+2025-06-12 12:23:34,972 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 12:23:34,974 - INFO - Processing chunk 2/5
+2025-06-12 12:25:18,221 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 12:25:18,384 - INFO - Processing chunk 3/5
+2025-06-12 12:27:29,472 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 12:27:29,475 - INFO - Processing chunk 4/5
+2025-06-12 12:29:17,604 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 12:29:17,609 - INFO - Processing chunk 5/5
+2025-06-12 12:29:19,206 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-12 12:29:19,208 - ERROR - GPT response for transactions is not valid JSON
+2025-06-12 12:29:19,209 - INFO - Total unique transactions extracted: 151

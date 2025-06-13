@@ -12,7 +12,7 @@ A FastAPI-based service that processes bank statement PDFs and extracts transact
 
 ## Prerequisites
 
-- Python 3.9+
+- Python 3.7+
 - OpenAI API key
 - Required Python packages (see [Installation](#installation))
 
@@ -90,6 +90,10 @@ Logs are written to `pdf_table_extractor.log` in the project root directory.
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 

@@ -1,0 +1,13 @@
+{
+    "account_holder": "KHALIFA ALMHEIRI",
+    "account_number": "3251 6497 3415",
+    "statement_period": {
+        "start": "unknown",
+        "end": "unknown"
+    },
+    "opening_balance": "unknown",
+    "closing_balance": "unknown",
+    "currency": "unknown",
+    "statement_format": "bank_of_america",
+    "transactions": []
+}
